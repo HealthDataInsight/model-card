@@ -1,4 +1,4 @@
-# NHS England Template Model Card
+# HDI Template Model Card
 
 ## What are model cards?
 
@@ -34,7 +34,7 @@ Storing the model card in a repository alongside the code used to train, test an
 
 ## Inspiration
 
-Model cards were first explored in a Google research paper[^1] in 2018 and are now widely used.
+Model cards were first explored in a Google research paper[^1] in 2018 and are now widely used. This model card format is based on the version used by NHS England.~
 
 The initial design and set-up of this model card template took inspiration from:
 
